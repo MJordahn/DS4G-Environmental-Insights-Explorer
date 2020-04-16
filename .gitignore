@@ -1,6 +1,10 @@
 eie_data/gfs
 eie_data/gldas
 eie_data/gppd
-eie_data/s5p_no2
+eie_data/cleaned_s5p_no2
+eie_data/cleaned_gfs
+eie_data/cleaned_s5p_no2_overlays
 eie_data/ipynb_checkpoints
+eie_data/s5p_no2
 .ipynb_checkpoints
+*.csv
